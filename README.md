@@ -15,7 +15,6 @@
 
 ![macOS 15 Tahoe](https://img.shields.io/badge/macOS-15%20Tahoe-00aaff)
 ![Learning Project](https://img.shields.io/badge/Project-Learning-lightgrey)
-![Human Written](https://img.shields.io/badge/AI-Free%20Commit%20Messages-ff69b4)
 ![Custom](https://img.shields.io/badge/ABM%20Key-ES256%20PKCS8-blue)
 
 ---
