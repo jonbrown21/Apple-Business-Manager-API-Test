@@ -2,7 +2,6 @@
 
 ![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Last Commit](https://img.shields.io/github/last-commit/jonbrown21/<REPO_NAME>)
 ![Status](https://img.shields.io/badge/Status-Playground-yellow)
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)
