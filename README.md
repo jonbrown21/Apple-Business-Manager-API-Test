@@ -333,3 +333,5 @@ Conceptually, this playground is modeling the standard **OAuth 2.0 client_creden
 
 This repo keeps each step **small and inspectable**, so you can learn what’s happening at each stage rather than hiding everything in a single monolithic script.
 
+<a href="https://www.buymeacoffee.com/jonbrown" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
