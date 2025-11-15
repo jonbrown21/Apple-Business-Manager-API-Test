@@ -14,8 +14,6 @@
 ![OAuth2](https://img.shields.io/badge/OAuth2-Client%20Credentials-orange)
 ![JWT](https://img.shields.io/badge/JWT-ES256-important)
 
-![CI](https://github.com/jonbrown21/<REPO_NAME>/actions/workflows/ci.yml/badge.svg)
-
 ![macOS 15 Tahoe](https://img.shields.io/badge/macOS-15%20Tahoe-00aaff)
 ![Learning Project](https://img.shields.io/badge/Project-Learning-lightgrey)
 ![Human Written](https://img.shields.io/badge/AI-Free%20Commit%20Messages-ff69b4)
